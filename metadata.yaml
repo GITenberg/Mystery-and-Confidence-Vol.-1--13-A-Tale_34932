@@ -1,0 +1,24 @@
+_repo: Mystery-and-Confidence-Vol.-1--13-A-Tale_34932
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pinchard, Elizabeth Sibthorpe
+    gutenberg_agent_id: '37328'
+    url: http://www.gutenberg.org/2009/agents/37328
+description: ''
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'Mystery and Confidence: A Tale. Vol. 1'
+url: http://www.gutenberg.org/ebooks/34932
